@@ -8,5 +8,8 @@ The purpose of this repository is to practice key Git and GitHub concepts, inclu
 
 This line is added to test commit and push (Bonus Exploration - Exercise #3)
 
-### Collaborator
+### Collaborator - Exercise #4
 This section was added by a collaborator as part of the GitHub collaboration exercise.
+
+Exercise #5
+This line is a local change made by Christiane.
