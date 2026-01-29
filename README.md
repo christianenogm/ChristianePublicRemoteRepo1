@@ -14,4 +14,4 @@ This section was added by a collaborator as part of the GitHub collaboration exe
 
 ### Exercise #5
 
-This is a local change made by Christiane.
+Local change made by Christiane.
